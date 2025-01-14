@@ -1,0 +1,1 @@
+# -Power-Automate-How-to-Send-Emails-to-Excel-Automatically
